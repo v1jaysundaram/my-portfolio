@@ -13,3 +13,7 @@
 📄 My CV in [PDF](url)
 
 ## Portfolio Projects
+
+### [YouTube Data Analysis](https://github.com/v1jaysundaram/my-portfolio/tree/main/YouTube%20Data%20Analysis)
+
+
