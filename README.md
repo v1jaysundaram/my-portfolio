@@ -8,8 +8,6 @@
 
 📄 My CV in [PDF](url)
 
-------------------------------------------
-
 ## 📂 Portfolio Projects
 
 ### [YouTube Data Analysis](https://github.com/v1jaysundaram/my-portfolio/tree/main/YouTube%20Data%20Analysis)
@@ -33,20 +31,17 @@
 - **Results:**
  --->
 
--------------------------------------------------
 
 ## 🎓 Certifications
  I took the following certifications to upskill myself and stay updated with market requirements. 
 - [Microsoft Power BI Desktop for Business Intelligence (2023)](https://www.udemy.com/certificate/UC-9ccf64d3-50c6-460a-9970-a6d93bb4324b/) [Udemy - Maven Analytics] (Nov 2023 - Dec 2023)
 - [Statistics for Data Science and Business Analysis](https://www.udemy.com/certificate/UC-8ae2cb14-08b8-4134-9892-f2f470eee331/) [Udemy - 365 Careers] (Oct 2023) 
 
--------------------------------------------------
 
 ## 📜 License
 
 This project is licensed under the terms of [MIT License](https://github.com/v1jaysundaram/my-portfolio/blob/main/LICENSE). You are free to use the code and resources for educational or personal purposes.
 
-------------------------------------------------
 
 ## 📬Contact Me
 
@@ -56,7 +51,6 @@ Welcome your feedback, suggestions, or questions about the projects or this repo
 📧 Email: [vijaysundaram0206@gmail.com](vijaysundaram0206@gmail.com)
 ✍🏽 Medium: [vijay_sundaram](https://medium.com/@vijay_sundaram)
 
--------------------------------------------------
 
 🚀 Enjoy exploring my Data Analytics projects!
 
