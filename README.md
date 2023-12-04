@@ -4,8 +4,8 @@
 
 🚀 This GitHub repository is a showcase of my data analysis projects, reflecting my skills and progress in the field. Each project highlights different aspects of data analysis and visualization. 
 
-🔗 Connect on [LinkedIn]([url](https://www.linkedin.com/in/vijay-sundaram/)) to share suggestions, collaborate, or just drop a casual "hi."
+🔗 Connect on [LinkedIn]([(https://www.linkedin.com/in/vijay-sundaram/)]) to share suggestions, collaborate, or just drop a casual "hi."
 
-✍🏽 Follow my Data Analytics blog on [Medium]([url](https://medium.com/@vijay_sundaram)https://medium.com/@vijay_sundaram).
+✍🏽 Follow my Data Analytics blog on [Medium]([(https://medium.com/@vijay_sundaram)https://medium.com/@vijay_sundaram)].
 
 📄 My CV in [PDF](url)
