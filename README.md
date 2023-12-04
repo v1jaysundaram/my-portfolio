@@ -47,11 +47,11 @@ This project is licensed under the terms of [MIT License](https://github.com/v1j
 
 Welcome your feedback, suggestions, or questions about the projects or this repository. Feel free to reach out on any of the following platforms!
 
-🔗 LinkedIn: [vijay-sundaram](https://www.linkedin.com/in/vijay-sundaram/)
-📧 Email: [vijaysundaram0206@gmail.com](vijaysundaram0206@gmail.com)
-✍🏽 Medium: [vijay_sundaram](https://medium.com/@vijay_sundaram)
+- 🔗 LinkedIn: [vijay-sundaram](https://www.linkedin.com/in/vijay-sundaram/)
+- 📧 Email: [vijaysundaram0206@gmail.com](vijaysundaram0206@gmail.com)
+- ✍🏽 Medium: [vijay_sundaram](https://medium.com/@vijay_sundaram)
 
 
-🚀 Enjoy exploring my Data Analytics projects!
+🚀 Enjoy exploring my Data Analysis projects!
 
  
