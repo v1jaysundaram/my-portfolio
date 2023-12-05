@@ -26,6 +26,12 @@
 - **Technologies Used:**
 - **Results:**
 
+
+### [Music Store Analysis](https://github.com/v1jaysundaram/my-portfolio/tree/main/Music%20Store%20Analysis)
+- **Description:**
+- **Skills:**
+- **Technologies Used:**
+- **Results:**
 <!---
 - **Description:**
 - **Skills:**
