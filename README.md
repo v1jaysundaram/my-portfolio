@@ -31,7 +31,7 @@
 - **Technologies / Libraries Used:** Microsoft Power BI
 - **Results:**
 
-- ### [Zomato Restaurants Analysis](https://github.com/v1jaysundaram/my-portfolio/tree/main/Zomato%20Restaurants%20Analysis)
+### [Zomato Restaurants Analysis](https://github.com/v1jaysundaram/my-portfolio/tree/main/Zomato%20Restaurants%20Analysis)
 
 - **Description:** The project aims is to provide comprehensive insights for aspiring restaurant owners in India.
 - **Skills:** Python Coding, Data Cleaning, Data Analysis, Data Visualization, Statistics
