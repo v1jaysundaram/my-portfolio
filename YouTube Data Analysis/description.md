@@ -20,18 +20,18 @@ The “video_df” dataframe comprises 1446 rows and 12 columns.
 
 | Variable     | Description                                            |
 |:------------:|:------------------------------------------------------:|
-| video_id     | Unique identifier for each video                       |
-| channelTitle | Title of the YouTube channel associated with the video |
-| title        | Title of the video                                     |
-| description  | Textual description provided for the video             |
-| tags         | Keywords or labels associated with the video           |
-| publishedAt  | Date and time when the video was published             |
-| viewCount    | Number of views the video has received                 |
-| likeCount    | Number of likes the video has received                 |
-| commentCount | Number of comments posted on the video                 |
-| duration     | Duration or length of the video                        |
-| definition   | Video resolution or quality                            |
-| caption      | Indicates whether captions are available for the video |
+| video_id     | unique identifier for each video                       |
+| channelTitle | tuitle of the YouTube channel associated with the video |
+| title        | title of the video                                     |
+| description  | textual description provided for the video             |
+| tags         | keywords or labels associated with the video           |
+| publishedAt  | date and time when the video was published             |
+| viewCount    | number of views the video has received                 |
+| likeCount    | number of likes the video has received                 |
+| commentCount | number of comments posted on the video                 |
+| duration     | duration or length of the video                        |
+| definition   | video resolution or quality                            |
+| caption      | indicates whether captions are available for the video |
 
 <br>
 
