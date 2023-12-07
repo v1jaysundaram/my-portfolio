@@ -1,6 +1,6 @@
 # ---------------------- Music Store Analysis ---------------------------------
 
-### For a detailed explanation of the code, check out the Medium article - https://medium.com/@vijay_sundaram/exploratory-data-analysis-of-music-data-in-sql-uncovering-insights-from-a-music-store-dataset-fcc57e9e25de
+### For a detailed explanation of the SQL queries, check out the Medium article - https://medium.com/@vijay_sundaram/exploratory-data-analysis-of-music-data-in-sql-uncovering-insights-from-a-music-store-dataset-fcc57e9e25de
 
 ## Sales and Revenue Analysis
 
