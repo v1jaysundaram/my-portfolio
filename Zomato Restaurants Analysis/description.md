@@ -18,18 +18,18 @@ The dataset, comprising 123,657 rows and 12 columns, provides insights on food, 
 
 | Field           | Description                                                   |
 | :-------------: | :-----------------------------------------------------------: |
-| Restaurant Name | Name of the restaurant                                        |
-| Dining Rating   | Rating given by customers for the dining experience           |
-| Delivery Rating | Rating given by customers for the delivery service            |
-| Dining Votes    | Number of votes or reviews received for the dining experience |
-| Delivery Votes  | Number of votes or reviews received for the delivery service  |
-| Cuisine         | Type of cuisine or culinary style offered by the restaurant   |
-| Place Name      | Name of the metropolitan area                                 |
-| City            | Name of the metropolitan city where the restaurant is located |
-| Item Name       | Name of a specific dish or item offered by the restaurant     |
-| Best Seller     | Indicates whether the item is a best-selling dish or not      |
-| Votes           | Number of votes or reviews received for the specific item     |
-| Prices          | Prices associated with each item offered by the restaurant    |
+| Restaurant Name | name of the restaurant                                        |
+| Dining Rating   | rating given by customers for the dining experience           |
+| Delivery Rating | rating given by customers for the delivery service            |
+| Dining Votes    | number of votes or reviews received for the dining experience |
+| Delivery Votes  | number of votes or reviews received for the delivery service  |
+| Cuisine         | type of cuisine or culinary style offered by the restaurant   |
+| Place Name      | name of the metropolitan area                                 |
+| City            | name of the metropolitan city where the restaurant is located |
+| Item Name       | name of a specific dish or item offered by the restaurant     |
+| Best Seller     | indicates whether the item is a best-selling dish or not      |
+| Votes           | number of votes or reviews received for the specific item     |
+| Prices          | prices associated with each item offered by the restaurant    |
 
 <br>
 
