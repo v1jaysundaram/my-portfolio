@@ -33,13 +33,13 @@ The “video_df” dataframe comprises 1446 rows and 12 columns.
 | definition   | Video resolution or quality                            |
 | caption      | Indicates whether captions are available for the video |
 
-<!-- Leave a line here -->
+<br>
 
 The “comments_df” dataframe has 1323 rows and 2 columns.
 
 | Variable |                                      Description                                      |
 |:--------:|:-------------------------------------------------------------------------------------:|
-| video_id | unique identifier for each video, linking it to the corresponding video in `video_df` |
+| video_id | unique identifier for each video, linking it to the corresponding video in "video_df" |
 | comments | textual content of comments posted on the associated video                            |
 
 ## Results
