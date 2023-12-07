@@ -12,18 +12,18 @@ The project aims to analyse the YouTube video data of travel YouTubers and ident
 - Plotly
 - NLTK
 
-  | Field         | Description                                              |
-| ------------- | -------------------------------------------------------- |
-| video_id      | Unique identifier for each video                         |
-| channelTitle  | Title of the YouTube channel associated with the video   |
-| title         | Title of the video                                       |
-| description   | Textual description provided for the video               |
-| tags          | Keywords or labels associated with the video             |
-| publishedAt   | Date and time when the video was published               |
-| viewCount     | Number of views the video has received                   |
-| likeCount     | Number of likes the video has received                   |
-| commentCount  | Number of comments posted on the video                   |
-| duration      | Duration or length of the video                          |
-| definition    | Video resolution or quality                              |
-| caption       | Indicates whether captions are available for the video  |
+| Field        | Description                                            |
+|--------------|--------------------------------------------------------|
+| video_id     | Unique identifier for each video                       |
+| channelTitle | Title of the YouTube channel associated with the video |
+| title        | Title of the video                                     |
+| description  | Textual description provided for the video             |
+| tags         | Keywords or labels associated with the video           |
+| publishedAt  | Date and time when the video was published             |
+| viewCount    | Number of views the video has received                 |
+| likeCount    | Number of likes the video has received                 |
+| commentCount | Number of comments posted on the video                 |
+| duration     | Duration or length of the video                        |
+| definition   | Video resolution or quality                            |
+| caption      | Indicates whether captions are available for the video |
 
