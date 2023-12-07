@@ -32,6 +32,14 @@
 - **Skills:**
 - **Technologies Used:**
 - **Results:**
+
+ ### [Bank Customer Churn Dashboard](https://github.com/v1jaysundaram/my-portfolio/tree/main/Bank%20Customer%20Churn%20Dashboard)
+- **Description:**
+- **Skills:**
+- **Technologies Used:**
+- **Results:**
+
+ 
 <!---
 - **Description:**
 - **Skills:**
