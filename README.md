@@ -8,36 +8,38 @@
 
 ✍🏽 Follow my Data Analytics Blog on [Medium](https://medium.com/@vijay_sundaram).
   
-📄 My CV in [PDF](url)
+📄 My CV in [PDF](https://github.com/v1jaysundaram/my-portfolio/blob/main/Vijay%20Sundaram%20Mohana_CV.pdf)
 
 ## 📂 Portfolio Projects
 
 ### [YouTube Data Analysis](https://github.com/v1jaysundaram/my-portfolio/tree/main/YouTube%20Data%20Analysis)
 
-- **Description:**
-- **Skills:**
-- **Technologies Used:**
-- **Results:**
-
-### [Zomato Restaurants Analysis](https://github.com/v1jaysundaram/my-portfolio/tree/main/Zomato%20Restaurants%20Analysis)
-
-- **Description:**
-- **Skills:**
-- **Technologies Used:**
-- **Results:**
-
+- **Description:** The project aims to analyse the YouTube video data of travel YouTubers and identify the factors that make a video perform well on YouTube. Additionally, it aims to explore the trending topics of the videos in this niche using Natural Language Processing (NLP).
+- **Skills:** Pyhton Coding, Data Cleaning, Data Analysis, Data Visualization, APIs for Data Generation, Statistics
+- **Technologies / Libraries Used:** Python, pandas, NumPy, Matplotlib, seaborn, Plotly, NLTK
+- **Results:** Analyzed travel YouTube channels for view distribution, engagement rates, and video interactions, title characteristics, video duration, publishing times, and trending topics.
 
 ### [Music Store Analysis](https://github.com/v1jaysundaram/my-portfolio/tree/main/Music%20Store%20Analysis)
 - **Description:**
 - **Skills:**
-- **Technologies Used:**
+- **Technologies / Libraries Used:**
 - **Results:**
 
  ### [Bank Customer Churn Dashboard](https://github.com/v1jaysundaram/my-portfolio/tree/main/Bank%20Customer%20Churn%20Dashboard)
 - **Description:**
 - **Skills:**
-- **Technologies Used:**
+- **Technologies / Libraries Used:**
 - **Results:**
+
+- ### [Zomato Restaurants Analysis](https://github.com/v1jaysundaram/my-portfolio/tree/main/Zomato%20Restaurants%20Analysis)
+
+- **Description:**
+- **Skills:**
+- **Technologies / Libraries Used:**
+- **Results:**
+
+
+
 
  
 <!---
