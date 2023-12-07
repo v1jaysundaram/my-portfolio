@@ -1,7 +1,6 @@
 # YouTube Data Analysis
 
-_This directory contains the SQL queries file, datasets, schema diagram, and a PowerPoint file. For a detailed explanation of the SQL queries, check out the [Medium]
-(https://medium.com/@vijay_sundaram/exploratory-data-analysis-of-music-data-in-sql-uncovering-insights-from-a-music-store-dataset-fcc57e9e25de) blog._
+_This directory contains the SQL queries file, datasets, schema diagram, and a PowerPoint file. For a detailed explanation of the SQL queries, check out the [Medium](https://medium.com/@vijay_sundaram/exploratory-data-analysis-of-music-data-in-sql-uncovering-insights-from-a-music-store-dataset-fcc57e9e25de) blog._
 
 
 ## Description
