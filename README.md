@@ -15,13 +15,13 @@
 ### [YouTube Data Analysis](https://github.com/v1jaysundaram/my-portfolio/tree/main/YouTube%20Data%20Analysis)
 
 - **Description:** The project aims to analyse the YouTube video data of travel YouTubers and identify the factors that make a video perform well on YouTube. Additionally, it aims to explore the trending topics of the videos in this niche using Natural Language Processing (NLP).
-- **Skills:** Pyhton Coding, Data Cleaning, Data Analysis, Data Visualization, APIs for Data Generation, Statistics
+- **Skills:** Python Coding, Data Cleaning, Data Analysis, Data Visualization, APIs for Data Generation, Statistics
 - **Technologies / Libraries Used:** Python, pandas, NumPy, Matplotlib, seaborn, Plotly, NLTK
 - **Results:** Analyzed travel YouTube channels for view distribution, engagement rates, and video interactions, title characteristics, video duration, publishing times, and trending topics.
 
 ### [Music Store Analysis](https://github.com/v1jaysundaram/my-portfolio/tree/main/Music%20Store%20Analysis)
-- **Description:**
-- **Skills:**
+- **Description:** The project aims to analyze the intricacies of the music industry through a comprehensive exploration of sales, customer behaviour, genre and artist popularity, global trends, playlists, and employee dynamics.
+- **Skills:** SQL Coding, 
 - **Technologies / Libraries Used:**
 - **Results:**
 
