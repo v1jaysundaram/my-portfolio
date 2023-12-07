@@ -34,6 +34,7 @@ The “video_df” dataframe comprises 1446 rows and 12 columns.
 | caption      | Indicates whether captions are available for the video |
 
 
+
 The “comments_df” dataframe has 1323 rows and 2 columns.
 
 | Variable |                                      Description                                      |
@@ -42,4 +43,4 @@ The “comments_df” dataframe has 1323 rows and 2 columns.
 | comments | textual content of comments posted on the associated video                            |
 
 ## Results
-Analyzed travel YouTube channels for view distribution, engagement rates, and video interactions, title characteristics, video duration, publishing times, and trending topics.
+Analyzed travel YouTube channels for view distribution, engagement rates, video interactions, title characteristics, video duration, publishing times, and trending topics.
