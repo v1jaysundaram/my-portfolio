@@ -1,6 +1,6 @@
 # YouTube Data Analysis
 
-_This directory contains the notebook with code, dataset(s), and a PowerPoint file. You can read the full explanation on my [Medium](https://medium.com/@vijay_sundaram/analysing-popular-travel-youtubers-an-eda-project-using-youtube-video-data-in-python-298910922603) blog._
+_This directory contains the notebook with code, dataset(s), and a PowerPoint file. For a detailed explanation of the code, check out the [Medium](https://medium.com/@vijay_sundaram/analysing-popular-travel-youtubers-an-eda-project-using-youtube-video-data-in-python-298910922603) blog._
 
 
 ## Description
