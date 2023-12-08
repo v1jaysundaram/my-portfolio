@@ -61,7 +61,7 @@
 This project is licensed under the terms of [MIT License](https://github.com/v1jaysundaram/my-portfolio/blob/main/LICENSE). You are free to use the code and resources for educational or personal purposes.
 
 
-## 📬Contact Me
+## 📬 Contact Me
 
 I welcome your feedback, suggestions, or questions about the projects or this repository. Feel free to reach out on any of the following platforms!
 
