@@ -26,10 +26,10 @@
 - **Results:** Uncovered top-selling genres, tracks, and customer spending patterns, optimizing revenue strategies. Explored global music trends, playlist popularity, and employee dynamics for comprehensive business insights.
 
  ### [Bank Customer Churn Dashboard](https://github.com/v1jaysundaram/my-portfolio/tree/main/Bank%20Customer%20Churn%20Dashboard)
-- **Description:**
-- **Skills:**
+- **Description:** This project aims a creating a Power BI dashboard to delve into the intricacies of customer churn within a banking context.
+- **Skills:** Dashboarding, Data Cleaning, Data Analysis, Data Visualization
 - **Technologies / Libraries Used:** Microsoft Power BI
-- **Results:**
+- **Results:** Identified and visualized key metrics associated with customer churn, providing actionable insights.
 
 ### [Zomato Restaurants Analysis](https://github.com/v1jaysundaram/my-portfolio/tree/main/Zomato%20Restaurants%20Analysis)
 
