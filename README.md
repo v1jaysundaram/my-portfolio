@@ -8,7 +8,7 @@
 
 ✍🏽 Follow my Data Analytics Blog on [Medium](https://medium.com/@vijay_sundaram).
   
-📄 My CV in [PDF](https://github.com/v1jaysundaram/my-portfolio/blob/main/Vijay%20Sundaram%20Mohana_CV.pdf)
+📄 My CV in [PDF](https://github.com/v1jaysundaram/my-portfolio/blob/main/Vijay_Sundaram_Mohana_CV.pdf)
 
 ## 📂 Portfolio Projects
 
