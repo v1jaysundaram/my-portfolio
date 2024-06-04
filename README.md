@@ -48,7 +48,7 @@
 
 ## 🎓 Certifications
  I took the following certifications to upskill myself and stay updated with market requirements. 
-- [Microsoft Power BI Desktop for Business Intelligence (2023)](https://www.udemy.com/certificate/UC-9ccf64d3-50c6-460a-9970-a6d93bb4324b/) [Udemy - Maven Analytics] (Nov 2023 - Dec 2023)
+- [Microsoft Power BI Desktop for Business Intelligence (2023)](https://www.udemy.com/certificate/UC-9ccf64d3-50c6-460a-9970-a6d93bb4324b/) [Udemy - Maven Analytics] (Dec 2023)
 - [Statistics for Data Science and Business Analysis](https://www.udemy.com/certificate/UC-8ae2cb14-08b8-4134-9892-f2f470eee331/) [Udemy - 365 Careers] (Oct 2023) 
 
 ## 🎯 Challenges
