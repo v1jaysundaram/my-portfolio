@@ -2,9 +2,9 @@
 
 ## 👦🏽 About
 
-👋🏽 Hello, I'm Vijay Sundaram Mohana! I hold a **Master of Science (MSc) degree in Computer Science with a specialization in Speech and Language Processing** from _The University of Sheffield_. With a solid foundation in technology during my one-year tenure at Accenture, I am currently transitioning to a Data Analyst role and actively seeking graduate jobs and internships.
+👋🏽 Hello, I'm Vijay Sundaram Mohana! I hold a **Master of Science (MSc) degree in Computer Science specialising in Speech and Language Processing** from _The University of Sheffield_. With a solid foundation in technology gained during my one-year tenure at Accenture, I am currently enhancing my skills through an internship as a Data Analyst at Eel Rides. I am actively seeking full-time roles, and internships to further my career in data analytics.
 
-🚀 This GitHub repository is a showcase of my data analysis projects, reflecting my skills and progress in the field. Each project highlights different aspects of data analysis and visualization. 
+🚀 This GitHub repository showcases my data analysis projects, reflecting my skills and progress in the field. Each project highlights different aspects of data analysis and visualization. 
 
 ✍🏽 Follow my Data Analytics Blog on [Medium](https://medium.com/@vijay_sundaram).
   
@@ -33,15 +33,11 @@
 
 ### [Zomato Restaurants Analysis](https://github.com/v1jaysundaram/my-portfolio/tree/main/Zomato%20Restaurants%20Analysis)
 
-- **Description:** The project aims is to provide comprehensive insights for aspiring restaurant owners in India.
+- **Description:** The project aims to provide comprehensive insights for aspiring restaurant owners in India.
 - **Skills:** Python Coding, Data Cleaning, Data Analysis, Data Visualization, Statistics
 - **Technologies / Libraries Used:** Python, pandas, NumPy, Matplotlib, seaborn, Plotly
 - **Results:** Revealed the optimal city for a restaurant, identified beloved cuisines, and discerned customer dining preferences. Uncovered high-appeal dishes, determined ideal pricing, and gained insights into the local restaurant landscape for strategic decision-making.
 
-
-
-
- 
 <!---
 - **Description:**
 - **Skills:**
@@ -55,6 +51,9 @@
 - [Microsoft Power BI Desktop for Business Intelligence (2023)](https://www.udemy.com/certificate/UC-9ccf64d3-50c6-460a-9970-a6d93bb4324b/) [Udemy - Maven Analytics] (Nov 2023 - Dec 2023)
 - [Statistics for Data Science and Business Analysis](https://www.udemy.com/certificate/UC-8ae2cb14-08b8-4134-9892-f2f470eee331/) [Udemy - 365 Careers] (Oct 2023) 
 
+## 🎯 Challenges
+I actively take part in challenges to continually develop my skills and stay updated with industry trends.
+- #30DaySQLQueryChallenge
 
 ## 📜 License
 
