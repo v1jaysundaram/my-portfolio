@@ -53,7 +53,7 @@
 
 ## 🎯 Challenges
 I actively take part in challenges to continually develop my skills and stay updated with industry trends.
-- #30DaySQLQueryChallenge
+- 30DaySQLQueryChallenge
 
 ## 📜 License
 
