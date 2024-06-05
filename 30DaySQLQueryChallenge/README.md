@@ -12,8 +12,7 @@ The questions range from easy to hard, covering various SQL concepts.
 - Read the problem statement.
 - Load the data.
 - Try solving it on your own.
-- Verify your solution with mine.
-- You can also check the video solutions by Thoufiq Mohammed on his [YouTube](https://www.youtube.com/watch?v=FRzbOb3jdLg&list=PLavw5C92dz9Hxz0YhttDniNgKejQlPoAn&index=1) channel.
+- Verify your solution with mine. _(You can also check the video solutions by Thoufiq Mohammed on his [YouTube](https://www.youtube.com/watch?v=FRzbOb3jdLg&list=PLavw5C92dz9Hxz0YhttDniNgKejQlPoAn&index=1) channel)_
 
 **Note:** The queries are written for MySQL Workbench. You might need to change the syntax if running on a different database.
 
