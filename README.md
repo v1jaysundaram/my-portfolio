@@ -2,13 +2,16 @@
 
 ## 👦🏽 About
 
-👋🏽 Hello, I'm Vijay Sundaram Mohana! I hold a **Master of Science (MSc) degree in Computer Science specialising in Speech and Language Processing** from _The University of Sheffield_. With a solid foundation in technology gained during my one-year tenure at Accenture, I am currently enhancing my skills through an internship as a Data Analyst at Eel Rides. I am actively seeking full-time roles, and internships to further my career in data analytics.
+👋🏽 Hello, I'm Vijay Sundaram Mohana! I hold a **Master of Science (MSc) degree in Computer Science specialising in Speech and Language Processing** from _The University of Sheffield_. With a solid foundation in technology gained during my one-year tenure at Accenture, I am enhancing my skills through an internship as a Data Analyst at Eel Rides. I am actively seeking full-time roles, and internships to further my career in data analytics.
 
 🚀 This GitHub repository showcases my data analysis projects, reflecting my skills and progress in the field. Each project highlights different aspects of data analysis and visualization. 
 
 ✍🏽 Follow my Data Analytics Blog on [Medium](https://medium.com/@vijay_sundaram).
   
 📄 My CV in [PDF](https://github.com/v1jaysundaram/my-portfolio/blob/main/Vijay%20Sundaram%20Mohana_CV.pdf)
+
+
+
 
 ## 📂 Portfolio Projects
 
@@ -45,9 +48,15 @@
 - **Results:**
  --->
 
+
+
+
 ## 🎯 Challenges
-I actively take part in challenges to continually develop my skills and stay updated with industry trends.
+I actively take part in challenges to develop my skills and stay updated with industry trends continually.
 - 30DaySQLQueryChallenge
+
+
+
 
   
 ## 🎓 Certifications
@@ -56,9 +65,15 @@ I actively take part in challenges to continually develop my skills and stay upd
 - [Statistics for Data Science and Business Analysis](https://www.udemy.com/certificate/UC-8ae2cb14-08b8-4134-9892-f2f470eee331/) [Udemy - 365 Careers] (Oct 2023) 
 
 
+
+
+
 ## 📜 License
 
 This project is licensed under the terms of [MIT License](https://github.com/v1jaysundaram/my-portfolio/blob/main/LICENSE). You are free to use the code and resources for educational or personal purposes.
+
+
+
 
 
 ## 📬 Contact Me
