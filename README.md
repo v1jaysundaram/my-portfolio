@@ -15,7 +15,7 @@
 
 ## 📂 Portfolio Projects
 
-### **Data Exploration and Analysis**
+### Data Exploration and Analysis
 
 #### [YouTube Data Analysis](https://github.com/v1jaysundaram/my-portfolio/tree/main/YouTube%20Data%20Analysis)
 
